@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Horror Department</string>
+    <string name="millitary_btn">Millitary Horror</string>
+    <string name="college_btn">College Horror</string>
+    <string name="real_btn">Real Horror</string>
+    <string name="roar_btn">Roar</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>군대괴담 1</item>
+        <item>군대괴담 1</item>
+        <item>군대괴담 2</item>
+        <item>군대괴담</item>
+        <item>군대괴담 4</item>
+        <item>군대괴담 5</item>
+        <item>군대괴담 6</item>
+        <item>군대괴담 7</item>
+        <item>군대괴담 8</item>
+        <item>군대괴담 9</item>
+        <item>군대괴담 0</item>
+        <item>군대괴담 11</item>
+        <item>군대괴담 12</item>
+        <item>군대괴담 13</item>
+        <item>군대괴담 14</item>
+        <item>군대괴담 15</item>
+        <item>군대괴담 16</item>
+        <item>군대괴담 17</item>
+        <item>군대괴담 18</item>
+        <item>군대괴담 19</item>
+    </string-array>
+</resources>
