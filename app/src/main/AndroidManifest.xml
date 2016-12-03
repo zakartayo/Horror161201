@@ -15,7 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MillitaryActivity"></activity>
+        <activity android:name=".MillitaryActivity" />
+        <activity android:name=".CollegeActivity" />
+        <activity android:name=".ExpandableListActivity"></activity>
     </application>
 
 </manifest>
